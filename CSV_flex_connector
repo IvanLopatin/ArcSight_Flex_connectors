@@ -52,8 +52,8 @@ token[18].name=newfiled
 #############################
 event.name=AlertGuardiumName
 event.endTime=__createTimeStamp(year)
-event.deviceProduct=__stringConstant("MTO")
-event.deviceVendor=__stringConstant("MTO")
+event.deviceProduct=__stringConstant("TXT")
+event.deviceVendor=__stringConstant("TXT")
 event.endTime=Date
 event.destinationAddress=ServerIP
 event.sourceAddress=ClientIP
